@@ -46,4 +46,10 @@
 
 
     <string name="categories">Categories</string>
+    <string name="string_example">...</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="category_icon_exp">TODO</string>
+    <string name="this_is_also_some_shit">this is also some shit</string>
+    <string name="hello_this_is_some_shit">hello this is some shit</string>
 </resources>
